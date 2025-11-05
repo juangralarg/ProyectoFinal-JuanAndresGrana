@@ -1,0 +1,16 @@
+Nombre del proyecto: mi-app
+ID del proyecto: mi-app-codhouse
+Número del proyecto: 128994090672
+Clave de API web: No hay clave de API web para este proyecto
+
+*****Entorno******
+Tipo de entorno: Sin especificar
+
+******APP********
+Sobrenombre de la app: carrito_coder
+ID de la app: 1:128994090672:web:15a25427649e0bf15fe575
+Sitio de Firebase Hosting vinculado: mi-app-codhouse-2025
+
+
+LINK a base de datos:
+https://console.firebase.google.com/u/0/project/mi-app-codhouse/firestore/databases/-default-/data/~2Fproducts~2FO7mfwyNbhc5jHKqwN6BQ
